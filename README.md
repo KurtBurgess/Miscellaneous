@@ -5,7 +5,7 @@ This contains snippets of code, music and other things I have created that don't
 ## Music
 Over the years I've dabbled in creating music; some tracks are in the form of background music and others full songs yet to be finalised.
 
-### Summer Regetón
+### Summer Regeton
 Spanish summer music is all the rage right now so I decided to create this song to emulate what I've been hearing a lot on the radio
 
 ### GangsterGoose Boss Battle Theme
